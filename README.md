@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Bienvenid@
 
-You can use the [editor on GitHub](https://github.com/hbahamonde/experimento/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+En esta página web podrás inscribirte para un estudio que están realizando dos academicos del Instituto de Ciencias Sociales. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Dónde es? 
 
-### Markdown
+En el Laboratorio de Computación Z002.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Qué ganas tú?
 
-```markdown
-Syntax highlighted code block
+El estudio es pagado. Podrás ganar hasta $ 5.000 pesos. Tod@s ganan plata!
 
-# Header 1
-## Header 2
-### Header 3
+### Cuánto dura?
 
-- Bulleted
-- List
+Alrededor de media hora.
 
-1. Numbered
-2. List
+### De qué se trata? 
 
-**Bold** and _Italic_ and `Code` text
+Estamos interesados en observar qué decisiones tomas frente a un problema que se te dará en la pantalla del computador.
 
-[Link](url) and ![Image](src)
-```
+### Quiénes pueden participar?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Tod@s los estudiantes UOH, sin importar tu carrera, año, edad, genero, etc. 
 
-### Jekyll Themes
+Tod@s participan!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hbahamonde/experimento/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Cuáles son las restricciones?
 
-### Support or Contact
+Solo podrás participar una vez. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Si te inscribes, y re-agendas mas de dos veces, no podrás re-agendar por tercera vez.**
+
+## Inscripción
+
+Si estás interesad@, haz click [aqui](https://calendly.com/bahamonde/estudio). 
+
+Toma cualquier hora que te acomode, según tus clases y otros compromisos académicos.
+
+**Recuerda**: No faltes a tus clases por asistir a este experimento. Tu primer deber es ser estudiante! Si no puedes en cierta fecha, busca otro día que puedas asistir.
+
+### Contacto
+
+Si tienes preguntas adicionales, contacta a Javiera Tobar (javiera.tobarp@pregrado.uoh.cl).
