@@ -14,9 +14,13 @@ El estudio es pagado. Podrás ganar hasta $ 5.000 pesos. Tod@s ganan plata!
 
 Alrededor de media hora.
 
+### Cuándo es?
+
+Tenemos varias horas y días disponibles. Ve cuál te acomoda más pinchando [este link](https://calendly.com/bahamonde/estudio).
+
 ### De qué se trata? 
 
-Estamos interesados en observar qué decisiones tomas frente a un problema que se te dará en la pantalla del computador.
+Estamos interesad@s en observar qué decisiones tomas frente a ciertos problemas que te mostraremos en la pantalla del computador.
 
 ### Quiénes pueden participar?
 
