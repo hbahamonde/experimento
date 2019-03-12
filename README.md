@@ -8,7 +8,7 @@ En el Laboratorio de Computación Z002.
 
 ### Qué ganas tú?
 
-El estudio es pagado. Podrás ganar hasta $ 5.000 pesos. Tod@s ganan plata!
+El estudio es pagado. **Podrás ganar hasta $ 5.000 pesos**. Tod@s ganan plata!
 
 ### Cuánto dura?
 
@@ -27,6 +27,10 @@ Estamos interesad@s en observar qué decisiones tomas frente a ciertos problemas
 Tod@s los estudiantes UOH, sin importar tu carrera, año, edad, genero, etc. 
 
 Tod@s participan!
+
+### Ya participé en el experimento, cuándo me pagan?
+
+Una vez finalazada tu participación, nosotros te contactaremos para pagarte.
 
 ### Cuáles son las restricciones?
 
