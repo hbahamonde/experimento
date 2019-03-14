@@ -16,9 +16,7 @@ Alrededor de media hora.
 
 ### Cuándo es?
 
-**Todos los miércoles a las 12 del dia**. 
-
-Ve cuál día te acomoda más pinchando [este link](https://calendly.com/bahamonde/estudio).
+Ve cuál día te acomoda más pinchando [este link](https://calendly.com/bahamonde/estudio). Pero es **todos los miércoles a las 12 del dia**. 
 
 ### De qué se trata? 
 
