@@ -4,7 +4,7 @@ En esta página web podrás inscribirte para un estudio que están realizando do
 
 ### Dónde es? 
 
-En el Laboratorio de Computación Z003. Esto queda en el zócalo (abajo de la Cafetería UOH).
+En el **Laboratorio de Computación Z003**. Esto queda en el zócalo (abajo de la Cafetería UOH).
 
 ### Qué ganas tú?
 
@@ -16,7 +16,7 @@ Alrededor de media hora.
 
 ### Cuándo es?
 
-Los miércoles a las 12 del dia. 
+**Todos los miércoles a las 12 del dia**. 
 
 Ve cuál día te acomoda más pinchando [este link](https://calendly.com/bahamonde/estudio).
 
