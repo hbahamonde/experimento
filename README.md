@@ -14,6 +14,15 @@ El estudio es pagado. **Podrás ganar hasta $ 5.000 pesos**. Tod@s ganan plata!
 
 Alrededor de media hora.
 
+### Qué debo llevar?
+
+- Datos bancarios. **De esta forma nosotros podremos gestionar tu pago**. Necesitamos:
+  * Tipo de cuenta (corriente o RUT).
+  * Número de cuenta. 
+  * Banco.
+
+- Un lápiz.
+
 ### Cuándo es?
 
 Ve cuál día te acomoda más pinchando [este link](https://calendly.com/bahamonde/estudio). Pero es **todos los miércoles a las 12 del dia**. 
