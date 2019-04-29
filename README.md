@@ -10,6 +10,8 @@ En el **Laboratorio de Computación Z003**. Esto queda en el zócalo (abajo de l
 
 El estudio es pagado. **Podrás ganar hasta $ 5.000 pesos**. Tod@s ganan plata!
 
+**El estudio consta de dos partes**. Cada parte toma lugar un dia diferente. La primera parte se ejecutará durante el mes de Mayo-Junio (aproximadamente), y la segunda, durante Julio-Agosto (aproximadamente). **Debes asistir a las dos partes para recibir tu pago final**.
+
 ### Cuánto dura?
 
 Alrededor de media hora.
