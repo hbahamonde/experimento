@@ -61,6 +61,7 @@ Toma el día que te acomode más, según tus otros compromisos académicos.
 
 Si tienes preguntas adicionales, contacta a Javiera Tobar (javiera.tobarp@pregrado.uoh.cl).
 
+---
 
 ### Consentimiento para Participar en un Proyecto de Investigación Universitaria
 
