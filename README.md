@@ -51,7 +51,7 @@ Solo podrás participar una vez.
 
 ## Inscripción
 
-Si estás interesad@, haz click [aqui](https://calendly.com/bahamonde/estudio). 
+Si estás interesad@ y estás de acuerdo con el consentimiento informado (ver abajo), haz click [aqui](https://calendly.com/bahamonde/estudio). 
 
 Toma el día que te acomode más, según tus otros compromisos académicos.
 
@@ -60,3 +60,20 @@ Toma el día que te acomode más, según tus otros compromisos académicos.
 ### Contacto
 
 Si tienes preguntas adicionales, contacta a Javiera Tobar (javiera.tobarp@pregrado.uoh.cl).
+
+
+### Consentimiento para Participar en un Proyecto de Investigación Universitaria
+
+Este consentimiento informado es el mismo que te enviamos y que aceptaste al momento de pre-inscribirte en este estudio. Sin embargo, estas invitado(a) a leerlo nuevamente si así lo quieres.
+ 
+Estás invitado(a) a participar en una investigación realizada por Héctor Bahamonde y Andrea Canales, ambos académicos del Instituto de Ciencias Sociales UOH. El propósito de esta investigación es entender las opiniones y reacciones de los estudiantes de la UOH acerca de sus actitudes hacia fenómenos particulares de la política.
+ 
+Esta investigación es confidencial. “Confidencial” significa que si bien pediremos datos que puedan identificarte (como por ejemplo tu email y nombre), estos datos se mantendrán en estricta confidencialidad en un servidor privado, y no serán compartidos con nadie más. De hecho, esta información personal que pediremos, se utilizará para poder re-contactarte, y hacer entrega del pago, si es que hubiere alguno. Finalmente, no nos interesa conocer tus preferencias individuales per se: todas tus respuestas forman parte de otros cientos de otras respuestas. Además, siempre puedes pedir una copia de cualquier reporte basado en esta investigación. Todos los datos grabados serán guardados indefinidamente por el equipo de investigación.
+ 
+La participación en esta investigación no conlleva ningún riesgo, y es posible que no recibas ningún beneficio por participar en este estudio.
+ 
+Tu participación es voluntaria. Tu puedes elegir no participar. También puedes retirarte del estudio en cualquier momento durante los procedimientos. Sin embargo, en ese caso, no podrás recibir tu compensación monetaria, si es que hubiera alguna. Adicionalmente, puedes elegir no responder alguna pregunta si no te sientes cómodo(a) haciéndolo.
+ 
+Si tienes alguna pregunta sobre este estudio o los procedimientos, puedes contactarnos en cualquier de los siguientes correos electrónicos “hector.bahamonde@uoh.cl” y/o “andrea.canales@uoh.cl”. También puedes reunirte personalmente con alguno de nosotros, o ambos, en el Instituto de Ciencias Sociales UOH.
+
+Si tienes por lo menos 18 años de edad, entiendes lo que acabas de leer, y das tu consentimiento para participar en el estudio, haz clic en “De acuerdo” para empezar la encuesta. Si no, por favor, haz click en “No estoy de acuerdo” y saldrás del programa. En ese caso, no recibirás compensación alguna.
