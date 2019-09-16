@@ -59,7 +59,7 @@ Toma el día que te acomode más, según tus otros compromisos académicos.
 
 ### Contacto
 
-Si tienes preguntas adicionales, contacta a Javiera Tobar (javiera.tobarp@pregrado.uoh.cl).
+Si tienes preguntas adicionales, contacta a Bastián Garrido (bastian.garrido@pregrado.uoh.cl).
 
 ---
 
